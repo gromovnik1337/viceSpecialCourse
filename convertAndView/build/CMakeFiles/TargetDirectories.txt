@@ -1,0 +1,3 @@
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/convertAndView/build/CMakeFiles/rebuild_cache.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/convertAndView/build/CMakeFiles/convertAndView.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/convertAndView/build/CMakeFiles/edit_cache.dir
