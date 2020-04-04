@@ -10,7 +10,7 @@ main (int argc, char** argv)
   pcl::PointCloud<pcl::PointXYZ>::Ptr cloud (new pcl::PointCloud<pcl::PointXYZ>);
 
   // Load the file
-  if (pcl::io::loadPCDFile<pcl::PointXYZ> ("MedianSpike_5.pcd", *cloud) == -1)
+  if (pcl::io::loadPCDFile<pcl::PointXYZ> ("MedianSpike_5_downsampled.pcd", *cloud) == -1)
   {
     PCL_ERROR ("Couldn't read file test_pcd.pcd \n");
     return (-1);

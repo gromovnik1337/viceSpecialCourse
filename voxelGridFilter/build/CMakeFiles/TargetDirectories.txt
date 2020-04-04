@@ -1,0 +1,3 @@
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/voxelGridFilter/build/CMakeFiles/rebuild_cache.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/voxelGridFilter/build/CMakeFiles/voxel_grid.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/voxelGridFilter/build/CMakeFiles/edit_cache.dir
