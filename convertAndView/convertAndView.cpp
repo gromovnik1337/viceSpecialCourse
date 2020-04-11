@@ -18,7 +18,7 @@ main (int argc, char** argv)
 
   std::cout << "Loaded "
             << cloud->width * cloud->height
-            << " data points from test_pcd.pcd with the following fields: "
+            << " data points from MedianSpike_5_downsampled.pcd with the following fields: "
             << std::endl;
 
   // Visualize the cloud
