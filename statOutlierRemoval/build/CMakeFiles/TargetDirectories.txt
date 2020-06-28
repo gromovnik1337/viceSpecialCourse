@@ -1,3 +1,3 @@
-/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles/rebuild_cache.dir
-/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles/statOutlierRemoval.dir
-/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles/edit_cache.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles/rebuild_cache.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles/statOutlierRemoval.dir
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles/edit_cache.dir

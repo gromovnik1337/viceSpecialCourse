@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/statOutlierRemoval.cpp
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/statOutlierRemoval.cpp
 iostream
 -
 pcl/io/pcd_io.h

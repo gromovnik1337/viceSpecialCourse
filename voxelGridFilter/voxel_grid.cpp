@@ -11,7 +11,7 @@ main (int argc, char** argv)
 
   // Fill in the cloud data
   pcl::PCDReader reader;
-  reader.read ("MedianSpike_5.pcd", *cloud);
+  reader.read ("RawRaw_pc_5.pcd", *cloud);
 
   std::cerr << "PointCloud before filtering: " << cloud->width * cloud->height
        << " data points (" << pcl::getFieldsList (*cloud) << ").";
@@ -26,7 +26,7 @@ main (int argc, char** argv)
        << " data points (" << pcl::getFieldsList (*cloud_filtered) << ").";
 
   pcl::PCDWriter writer;
-  writer.write ("MedianSpike_5_downsampled.pcd", *cloud_filtered,
+  writer.write ("RawRaw_vox_5.pcd", *cloud_filtered,
          Eigen::Vector4f::Zero (), Eigen::Quaternionf::Identity (), false);
 
   return (0);

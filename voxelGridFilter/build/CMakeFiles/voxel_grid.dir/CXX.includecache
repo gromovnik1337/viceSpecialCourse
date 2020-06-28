@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/voxelGridFilter/voxel_grid.cpp
+/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/voxelGridFilter/voxel_grid.cpp
 iostream
 -
 pcl/io/pcd_io.h

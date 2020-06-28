@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval"
+CMAKE_SOURCE_DIR = "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build"
+CMAKE_BINARY_DIR = "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/statOutlierRemoval.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/statOutlierRemoval.dir/flags.make
 
 CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o: CMakeFiles/statOutlierRemoval.dir/flags.make
 CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o: ../statOutlierRemoval.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o -c "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/statOutlierRemoval.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o -c "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/statOutlierRemoval.cpp"
 
 CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/statOutlierRemoval.cpp" > CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/statOutlierRemoval.cpp" > CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.i
 
 CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/statOutlierRemoval.cpp" -o CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/statOutlierRemoval.cpp" -o CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.s
 
 CMakeFiles/statOutlierRemoval.dir/statOutlierRemoval.cpp.o.requires:
 
@@ -186,7 +186,7 @@ statOutlierRemoval: /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.9.5
 statOutlierRemoval: /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.9.5
 statOutlierRemoval: /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.9.5
 statOutlierRemoval: CMakeFiles/statOutlierRemoval.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable statOutlierRemoval"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable statOutlierRemoval"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/statOutlierRemoval.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -203,6 +203,6 @@ CMakeFiles/statOutlierRemoval.dir/clean:
 .PHONY : CMakeFiles/statOutlierRemoval.dir/clean
 
 CMakeFiles/statOutlierRemoval.dir/depend:
-	cd "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/standAlones/statOutlierRemoval/build/CMakeFiles/statOutlierRemoval.dir/DependInfo.cmake" --color=$(COLOR)
+	cd "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build" "/media/vice/Seagate Expansion Drive/Vice/01. Active_courses/Specialkursus_ny/Data/pclWrkDir/viceSpecialCourse/statOutlierRemoval/build/CMakeFiles/statOutlierRemoval.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/statOutlierRemoval.dir/depend
 
